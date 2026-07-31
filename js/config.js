@@ -133,22 +133,22 @@ projects: [
   videoSrc: "https://youtube.com/shorts/9S4oqQVanLc",
   category: "Gaming",
 },
-{
-  id: "itskukuyt-short-7",
-    title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/Im00KdqK93Y/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/Im00KdqK93Y",
-  category: "Gaming",
-},
-{
-  id: "itskukuyt-short-6",
-    title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/OborjHWyaeM/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/OborjHWyaeM",
-  category: "Gaming",
-},
+// {
+//   id: "itskukuyt-short-7",
+//     title: "Roblox Animal Hospital — Short",
+//   thumbnail: "https://i.ytimg.com/vi/Im00KdqK93Y/maxresdefault.jpg",
+//   videoType: "youtube",
+//   videoSrc: "https://youtube.com/shorts/Im00KdqK93Y",
+//   category: "Gaming",
+// },
+// {
+//   id: "itskukuyt-short-6",
+//     title: "Roblox Animal Hospital — Short",
+//   thumbnail: "https://i.ytimg.com/vi/OborjHWyaeM/maxresdefault.jpg",
+//   videoType: "youtube",
+//   videoSrc: "https://youtube.com/shorts/OborjHWyaeM",
+//   category: "Gaming",
+// },
 {
   id: "itskukuyt-short-5",
     title: "Roblox Animal Hospital— Short",
@@ -177,23 +177,23 @@ projects: [
 },
 
 
-{
-  id: "itskukuyt-short2",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/jxpBB-yYcEI/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/jxpBB-yYcEI?si=ixDOW8MmOh4XKRYf",
-  category: "Gaming",
-},
+// {
+//   id: "itskukuyt-short2",
+//   title: "Roblox Animal Hospital — Short",
+//   thumbnail: "https://i.ytimg.com/vi/jxpBB-yYcEI/maxresdefault.jpg",
+//   videoType: "youtube",
+//   videoSrc: "https://youtube.com/shorts/jxpBB-yYcEI?si=ixDOW8MmOh4XKRYf",
+//   category: "Gaming",
+// },
 
-{
-  id: "itskukuyt-short1",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/qYfmSO7_WCs/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/qYfmSO7_WCs?si=beZ_Z_IbJ034sgfq",
-  category: "Gaming",
-},
+// {
+//   id: "itskukuyt-short1",
+//   title: "Roblox Animal Hospital — Short",
+//   thumbnail: "https://i.ytimg.com/vi/qYfmSO7_WCs/maxresdefault.jpg",
+//   videoType: "youtube",
+//   videoSrc: "https://youtube.com/shorts/qYfmSO7_WCs?si=beZ_Z_IbJ034sgfq",
+//   category: "Gaming",
+// },
 
 
   {
