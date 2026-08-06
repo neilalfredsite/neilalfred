@@ -125,75 +125,8 @@ services: [
   //   - upload: put the .mp4 file path (e.g. "assets/videos/my-clip.mp4")
   // ---------------------------------------------------------------------
 projects: [
-{
-  id: "itskukuyt-short-8",
-    title: "The House of Creation — Short",
-  thumbnail: "https://i.ytimg.com/vi/9S4oqQVanLc/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/9S4oqQVanLc",
-  category: "Gaming",
-},
-// {
-//   id: "itskukuyt-short-7",
-//     title: "Roblox Animal Hospital — Short",
-//   thumbnail: "https://i.ytimg.com/vi/Im00KdqK93Y/maxresdefault.jpg",
-//   videoType: "youtube",
-//   videoSrc: "https://youtube.com/shorts/Im00KdqK93Y",
-//   category: "Gaming",
-// },
-// {
-//   id: "itskukuyt-short-6",
-//     title: "Roblox Animal Hospital — Short",
-//   thumbnail: "https://i.ytimg.com/vi/OborjHWyaeM/maxresdefault.jpg",
-//   videoType: "youtube",
-//   videoSrc: "https://youtube.com/shorts/OborjHWyaeM",
-//   category: "Gaming",
-// },
-{
-  id: "itskukuyt-short-5",
-    title: "Roblox Animal Hospital— Short",
-  thumbnail: "https://i.ytimg.com/vi/YkdhsNCfWe0/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/YkdhsNCfWe0",
-  category: "Gaming",
-},
-  {
-  id: "itskukuyt-short4",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/uMK0V0cCOGo/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/uMK0V0cCOGo?si=fzsH0YImrG_SGd-p",
-  category: "Gaming",
-},
 
 
-{
-  id: "itskukuyt-short3",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/XAN8SwxZURI/maxresdefault.jpg",
-  videoType: "youtube",
-  videoSrc: "https://youtube.com/shorts/XAN8SwxZURI?si=GSfNeKFt6s-N-zSM",
-  category: "Gaming",
-},
-
-
-// {
-//   id: "itskukuyt-short2",
-//   title: "Roblox Animal Hospital — Short",
-//   thumbnail: "https://i.ytimg.com/vi/jxpBB-yYcEI/maxresdefault.jpg",
-//   videoType: "youtube",
-//   videoSrc: "https://youtube.com/shorts/jxpBB-yYcEI?si=ixDOW8MmOh4XKRYf",
-//   category: "Gaming",
-// },
-
-// {
-//   id: "itskukuyt-short1",
-//   title: "Roblox Animal Hospital — Short",
-//   thumbnail: "https://i.ytimg.com/vi/qYfmSO7_WCs/maxresdefault.jpg",
-//   videoType: "youtube",
-//   videoSrc: "https://youtube.com/shorts/qYfmSO7_WCs?si=beZ_Z_IbJ034sgfq",
-//   category: "Gaming",
-// },
 
 
   {
@@ -232,6 +165,42 @@ projects: [
   category: "Entertainment",
 },
 
+{
+  id: "itskukuyt-short-5",
+    title: "Roblox Animal Hospital— Short",
+  thumbnail: "https://i.ytimg.com/vi/YkdhsNCfWe0/maxresdefault.jpg",
+  videoType: "youtube",
+  videoSrc: "https://youtube.com/shorts/YkdhsNCfWe0",
+  category: "Gaming",
+},
+  {
+  id: "itskukuyt-short4",
+  title: "Roblox Animal Hospital — Short",
+  thumbnail: "https://i.ytimg.com/vi/uMK0V0cCOGo/maxresdefault.jpg",
+  videoType: "youtube",
+  videoSrc: "https://youtube.com/shorts/uMK0V0cCOGo?si=fzsH0YImrG_SGd-p",
+  category: "Gaming",
+},
+
+
+{
+  id: "itskukuyt-short3",
+  title: "Roblox Animal Hospital — Short",
+  thumbnail: "https://i.ytimg.com/vi/XAN8SwxZURI/maxresdefault.jpg",
+  videoType: "youtube",
+  videoSrc: "https://youtube.com/shorts/XAN8SwxZURI?si=GSfNeKFt6s-N-zSM",
+  category: "Gaming",
+},
+
+
+{
+  id: "itskukuyt-short2",
+  title: "Roblox Animal Hospital — Short",
+  thumbnail: "https://i.ytimg.com/vi/jxpBB-yYcEI/maxresdefault.jpg",
+  videoType: "youtube",
+  videoSrc: "https://youtube.com/shorts/jxpBB-yYcEI?si=ixDOW8MmOh4XKRYf",
+  category: "Gaming",
+},
 
 
 {
