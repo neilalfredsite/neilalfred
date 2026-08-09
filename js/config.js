@@ -125,6 +125,23 @@ services: [
   //   - upload: put the .mp4 file path (e.g. "assets/videos/my-clip.mp4")
   // ---------------------------------------------------------------------
 projects: [
+{
+  id: "itskukuyt-short-15",
+  title: "Roblox Animal Hospital — Short",
+  thumbnail: "https://i.ytimg.com/vi/BpaVK4JKwMs/maxresdefault.jpg",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1LZnaCBYO-dJF3PIlUj-RwRFUlBof6CT0/view?usp=sharing",
+  category: "Gaming",
+},
+
+{
+  id: "itskukuyt-short-14",
+  title: "Roblox Animal Hospital — Short",
+  thumbnail: "https://drive.google.com/thumbnail?id=1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr&sz=w1280",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr/view?usp=sharing",
+  category: "Gaming",
+},
 
 
 
