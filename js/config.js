@@ -167,7 +167,7 @@ projects: [
 
 {
   id: "itskukuyt-short-8",
-    title: "Roblox Roblox Horror — Short",
+    title: "Roblox Horror — Short",
   thumbnail: "https://i.ytimg.com/vi/9S4oqQVanLc/maxresdefault.jpg",
   videoType: "gdrive",
   videoSrc: "https://drive.google.com/file/d/1VDl4YainyxxB5uvq-VYy2xpoHnmaC6f6/view?usp=sharing",
