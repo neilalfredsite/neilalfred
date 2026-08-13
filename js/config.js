@@ -143,6 +143,7 @@ projects: [
   category: "Gaming",
 },
 
+
 {
   id: "unkindlynx-short-3",
   title: "Shift At Midnight — Short",
@@ -152,14 +153,6 @@ projects: [
   category: "Gaming",
 },
 
-{
-  id: "unkindlynx-short-3",
-  title: "Shift At Midnight — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr&sz=w1280",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1tFwCEMK0d_iCRigKME3Qoq9Oe0UXQtsB/view?usp=sharing",
-  category: "Gaming",
-},
 
 {
   id: "itskukuyt-short-14",
