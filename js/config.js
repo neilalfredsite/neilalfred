@@ -126,126 +126,110 @@ services: [
   // ---------------------------------------------------------------------
 projects: [
 {
-  id: "itskukuyt-short-15",
-  title: "Outlast — Short",
-  thumbnail: "https://i.ytimg.com/vi/BpaVK4JKwMs/maxresdefault.jpg",
+  id: "itskukuyt-short-14",
+  title: "Roblox - Animal Hospital",
+  thumbnail: "https://i.ytimg.com/vi/4mzLeFYrLYU/maxresdefault.jpg",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1LZnaCBYO-dJF3PIlUj-RwRFUlBof6CT0/view?usp=sharing",
+  videoSrc: "https://drive.google.com/file/d/1CzWLrspVut_nnDqJ-vCWJlszaoOkTorF/view?usp=sharing",
   category: "Gaming",
 },
 
 {
-  id: "unkindlynx-short-2",
-  title: "Shift At Midnight — Short",
-  thumbnail: "https://i.ytimg.com/vi/G90X5sWFp7s/maxresdefault.jpg",
+  id: "itskukuyt-short-23",
+  title: "Roblox - Verity",
+  thumbnail: "https://i.ytimg.com/vi/LzX2eyuceyg/maxresdefault.jpg",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1tFwCEMK0d_iCRigKME3Qoq9Oe0UXQtsB/view?usp=sharing",
+  videoSrc: "https://drive.google.com/file/d/1sEPpBA77NoSP_RdPM4J3Xw5wBENdLbVh/view?usp=sharing",
   category: "Gaming",
 },
-
 {
-  id: "unkindlynx-short-2",
-  title: "Shift At Midnight — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1kG2VUocMNJZ9P4I6XaJs0xY4dOnKBLh2&sz=w1280",
+  id: "itskukuyt-short-10",
+  title: "Roblox - The House of Creation",
+  thumbnail: "https://i.ytimg.com/vi/9S4oqQVanLc/maxresdefault.jpg",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1kG2VUocMNJZ9P4I6XaJs0xY4dOnKBLh2/view?usp=sharing",
+  videoSrc: "https://drive.google.com/file/d/1UR-Ir9fwxXcEInPCekWiYiWnPQ-OaahY/view?usp=sharing ",
   category: "Gaming",
 },
 
 {
   id: "itskukuyt-short-14",
-  title: "Outlast — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr&sz=w1280",
+  title: "Outlast",
+  thumbnail: "https://i.ytimg.com/vi/BpaVK4JKwMs/maxresdefault.jpg",
   videoType: "gdrive",
   videoSrc: "https://drive.google.com/file/d/1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr/view?usp=sharing",
   category: "Gaming",
 },
 
 
-  {
-  id: "prismatic-shard-short",
-  title: "Stardew Valley — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1OMdDBUCDe59lsYCWe1QA0NZ308UDncmE&sz=w1200",
+
+
+{
+  id: "unkindlynx-short-7",
+  title: "Roblox - Animal Hospital",
+  thumbnail: "https://drive.google.com/thumbnail?id=1kG2VUocMNJZ9P4I6XaJs0xY4dOnKBLh2&sz=w1200",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1q8RxAsOrssosU17bhbFuQ4eFA5OV3A1I/view?usp=drive_link",
+  videoSrc: "https://drive.google.com/file/d/1kG2VUocMNJZ9P4I6XaJs0xY4dOnKBLh2/view?usp=sharing",
   category: "Gaming",
 },
 
 {
-  id: "mystery-box-short",
-  title: "Mystery Box — Short",
+  id: "unkindlynx-short-16",
+  title: "Shift At Midnight",
+  thumbnail: "https://i.ytimg.com/vi/TtVmFAbyKJ8/maxresdefault.jpg",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/16NXeIjJVIxwNRQ-GyWwtVwyF2POiRXtT/view?usp=sharing",
+  category: "Gaming",
+},
+
+{
+  id: "med1c1ne-short-17",
+  title: "Banana Benefits",
+  thumbnail: "https://i.ytimg.com/vi/HIHp8kR72Xg/maxresdefault.jpg",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1DIlTe5ByHVNZcAfb9_s2XHnVRawUOPDC/view?usp=drive_link",
+  category: "Health & Fitness",
+},
+
+{
+  id: "med1c1ne-short-short-12",
+  title: "Saitama Workout",
+  thumbnail: "https://i.ytimg.com/vi/a_vc-VDCtO4/maxresdefault.jpg",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/17jggNCbZuuzgykMLKQozpLVsp2cS2ye0/view?usp=sharing",
+  category: "Health & Fitness",
+},
+
+{
+  id: "med1c1ne-short-short-32",
+  title: "Workout Trivia",
+  thumbnail: "https://i.ytimg.com/vi/PAaBISvMYPQ/maxresdefault.jpg",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1L7mmO54ArBt6cRszjOnENizR18HLbr4h/view?usp=sharing",
+  category: "Health & Fitness",
+},
+
+
+{
+  id: "amarashorttv_short-80",
+  title: "Stardew Valley Guide",
   thumbnail: "https://drive.google.com/thumbnail?id=1r7YpGUltECdwOd82Iu3f1k7_eIy3QgFO&sz=w1200",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1iAhx-7oBj-y4DfhhqmzrNUhouf5d7XWg/view?usp=drive_link",
-  category: "Gaming",
-},
-{
-  id: "spongebob-trivia-short",
-  title: "SpongeBob Trivia — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1QtTFhJMFQMKeeGhKbV-M_w39EK7Wx1WA&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/111TddOQMDkUfPG1Z6HYoWICQEJQHo-HS/view?usp=drive_link",
-  category: "Entertainment",
-},
-
-
-{
-  id: "likeable-short",
-  title: "Be Likeable — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1w1JO-1C9cK5mxGo5p4SPi5zopKDJbA5u&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1Gb6vEjAwua5uSCkwSvlXRHlABW7-9qFO/view?usp=drive_link",
-  category: "Entertainment",
-},
-
-{
-  id: "itskukuyt-short-8",
-    title: "Roblox Horror — Short",
-  thumbnail: "https://i.ytimg.com/vi/9S4oqQVanLc/maxresdefault.jpg",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1VDl4YainyxxB5uvq-VYy2xpoHnmaC6f6/view?usp=sharing",
+  videoSrc: "https://drive.google.com/drive/folders/1YN1RHNv2RLU1tM1NiloGLRvuTRGq_ahD",
   category: "Gaming",
 },
 
 {
-  id: "itskukuyt-short-9",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/OX1BxSw2GLw/maxresdefault.jpg",
+  id: "amarashorttv_short-pvz15",
+  title: "PVZ Fusion Showcase",
+  thumbnail: "https://i.ytimg.com/vi/McAD4OdRkek/maxresdefault.jpg",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1VPpSSRYwCat-p7QOrOqLePhe_0edRiGx/view?usp=sharing",
+  videoSrc: "https://drive.google.com/file/d/1XW0Dg9OrTRr7_ozY-51tB4w5KsQOLHQv/view?usp=sharing",
   category: "Gaming",
 },
 
 {
-  id: "itskukuyt-short-5",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/YkdhsNCfWe0/maxresdefault.jpg",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1l3bUbOjwIy5Cz-sOKT5a8v3X6P08g0Pr/view?usp=sharing",
-  category: "Gaming",
-},
-
-{
-  id: "itskukuyt-short-7",
-  title: "Roblox Animal Hospital — Short",
-  thumbnail: "https://i.ytimg.com/vi/Im00KdqK93Y/maxresdefault.jpg",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1le8ppFvbElj4ja6LtEpnYgX5kCF0WBMV/view?usp=sharing",
-  category: "Gaming",
-},
-
-
-{
-  id: "haunted-dev-vlog",
-  title: "Haunted Dev Vlog — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1jFOaPCffAdyfQkaLQC_bpXsLnIxKFmJN&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1iCMC1Z7_V9yFmGMYjHDABRgL20f8tAy5/view?usp=drive_link",
-  category: "Gaming",
-},
-{
-  id: "superpower-short",
-  title: "Superpower — Short",
+  id: "amarashorttv-short-4",
+  title: "Superpower",
   thumbnail: "https://drive.google.com/thumbnail?id=1s9RbuQiiR3iVCjfvXvaRJy9RFSvY39aG&sz=w1200",
   videoType: "gdrive",
   videoSrc: "https://drive.google.com/file/d/19Ul-S38V6GNJJntJAh1K77YH-tRtbINb/view?usp=drive_link",
@@ -254,105 +238,13 @@ projects: [
 
 
 {
-  id: "kettle-short",
-  title: "Kettle Trivia— Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1xe_5__tQuQmBZCfZXS-Yg53VfdM3KySd&sz=w1200",
+  id: "amarashorttv-short-17",
+  title: "Spongebob Trivia",
+  thumbnail: "https://i.ytimg.com/vi/sesCozVmi5s/maxresdefault.jpg",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1b_WXFLbJb_iprcWfmu_05MJhues9hYJX/view?usp=drive_link",
+  videoSrc: "https://drive.google.com/file/d/111TddOQMDkUfPG1Z6HYoWICQEJQHo-HS/view?usp=sharing",
   category: "Entertainment",
 },
-
-{
-  id: "trees-hate-you-short",
-  title: "Trees Hate You — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1ijTwqNbj1URhIEpVGs5JiLHxGZWdvud9&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1QOD_02X9vYBq1rzLzY5DEQG80YIOrVUR/view?usp=drive_link",
-  category: "Gaming",
-},
-
-
-{
-  id: "pvz-6-short",
-  title: "Sun Bomb — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1lu_GbyEwIGkPiFlNnkUloXNOdT5tIFqk&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1h1zMSDLpIKZsVbNSariW9w3ZE35CnwPt/view?usp=drive_link",
-  category: "Gaming",
-},
-
-{
-  id: "pvz-89-short",
-  title: "Sun Nut — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1jQQastcMhxYfIwNQJN6-MOwuKQ_a0wVo&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/14Nqe2EuzmyvqUXS9-6oCxdgl4pWC2-7d/view?usp=drive_link",
-  category: "Gaming",
-},
-
-{
-  id: "pvz-10-short",
-  title: "Cherry Nut — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=17CKWoW3PPdW61G36vSZjfWXXDf2vXbai&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1tDGO9v3YIHr12UXMZ4KQCyBOmCApUZym/view?usp=drive_link",
-  category: "Gaming",
-},
-
-{
-  id: "pvz-15-short",
-  title: "Chomp Shooter — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1bSgVLxj4v5nZEfndJVlio2bwBlDxDBdy&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1XW0Dg9OrTRr7_ozY-51tB4w5KsQOLHQv/view?usp=drive_link",
-  category: "Gaming",
-},
-{
-  id: "gym_fitness_motivation_short36",
-  title: "Debunking Fitness Myths — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1fh_wxhUjcjvdsF0B0mW93t6PHL-ZhHYv&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1fh_wxhUjcjvdsF0B0mW93t6PHL-ZhHYv/view?usp=drive_link",
-  category: "Health & Fitness",
-},
-
-{
-  id: "gym_fitness_motivation_short51",
-  title: "Overcome Laziness — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1XmK1gdnpbKF_d4ZFP7tXnyDZt7zCDkzN&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1XmK1gdnpbKF_d4ZFP7tXnyDZt7zCDkzN/view?usp=sharing",
-  category: "Health & Fitness",
-},
-
-{
-  id: "gym_fitness_motivation_short12",
-  title: "Saitama Workout — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=17jggNCbZuuzgykMLKQozpLVsp2cS2ye0&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/17jggNCbZuuzgykMLKQozpLVsp2cS2ye0/view?usp=drive_link",
-  category: "Health & Fitness",
-},
-
-{
-  id: "gym_fitness_motivation_short17",
-  title: "Banana Benefits — Short",
-  thumbnail: "https://drive.google.com/thumbnail?id=1DIlTe5ByHVNZcAfb9_s2XHnVRawUOPDC&sz=w1200",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1DIlTe5ByHVNZcAfb9_s2XHnVRawUOPDC/view?usp=drive_link",
-  category: "Health & Fitness",
-},
-
-
-{
-  id: "unkindlynx-short-3",
-  title: "Shift At Midnight — Short",
-  thumbnail: "https://i.ytimg.com/vi/3CZ7I_ahky8/maxresdefault.jpg",
-  videoType: "gdrive",
-  videoSrc: "https://drive.google.com/file/d/1__NHwC7FZVWzH8VqtI6g28k5x3RYaSz9/view?usp=drive_link",
-  category: "Gaming",
-}
-
 
 
 ],
