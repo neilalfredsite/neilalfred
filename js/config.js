@@ -256,6 +256,20 @@ projects: [
   // each image's real aspect ratio (no cropping/distortion).
   // ---------------------------------------------------------------------
   thumbnails: [
+
+{
+  image: "assets/thumbnails/26.png",
+  title: "Shift at Midnight — Landscape Thumbnail",
+  category: "Gaming",
+  orientation: "16:9",
+},
+{
+  image: "assets/thumbnails/25.png",
+  title: "Pokemon — Landscape Thumbnail",
+  category: "Gaming",
+  orientation: "16:9",
+},
+
 {
   image: "assets/thumbnails/1.png",
   title: "Gacha Life Channel — Landscape Thumbnail",
