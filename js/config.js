@@ -42,6 +42,8 @@ profile: {
     // phone: "+63 917 000 0000",           // shown as text and used for tel: links
     facebook: "https://www.facebook.com/profile.php?id=61592370851884",
     discordUsername: "neilalfred_",             // shown with a one-click Copy button
+    whatsappUsername: "contact.neilalfred",
+    telegramUsername: "hi_neilalfred",
     // discord: "https://discord.gg/your-discord-invite", 
     // whatsapp: "https://wa.me/639170000000",       // full wa.me link with country code, no +
     // viber: "viber://chat?number=%2B639170000000", // viber deep link
@@ -159,8 +161,6 @@ projects: [
   videoSrc: "https://drive.google.com/file/d/1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr/view?usp=sharing",
   category: "Gaming",
 },
-
-
 
 
 {

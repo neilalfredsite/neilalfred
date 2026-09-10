@@ -103,13 +103,45 @@ if (favicon) {
     if (c.whatsapp) items.push({ key: "whatsapp", label: "WhatsApp", href: c.whatsapp });
     if (c.discord) items.push({ key: "discord", label: "Discord", href: c.discord });
     if (c.viber) items.push({ key: "viber", label: "Viber", href: c.viber });
-    if (c.telegram) items.push({ key: "telegram", label: "Telegram", href: c.telegram });
+    if (c.telegram || c.telegramUsername) {
+      const username = c.telegramUsername ? c.telegramUsername.replace(/^@/, "") : "";
+      items.push({
+        key: "telegram",
+        label: username ? `Telegram: @${username}` : "Telegram",
+        href: c.telegram || `https://t.me/${username}`,
+      });
+    }
 
     list.innerHTML = items
       .map(
         (it) => `<li><a href="${esc(it.href)}" target="${it.key === "email" || it.key === "phone" ? "_self" : "_blank"}" rel="noopener">${ICONS[it.key] || ""}<span>${esc(it.label)}</span></a></li>`
       )
       .join("");
+
+    // Copy-WhatsApp username row
+    const whatsappRow = document.getElementById("contact-whatsapp-row");
+    if (c.whatsappUsername) {
+      document.getElementById("contact-whatsapp-text").innerHTML = `${ICONS.whatsapp}<span>${esc(c.whatsappUsername)}</span>`;
+      document.getElementById("contact-whatsapp-text").style.display = "flex";
+      document.getElementById("contact-whatsapp-text").style.alignItems = "center";
+      document.getElementById("contact-whatsapp-text").style.gap = "8px";
+      const whatsappBtn = document.getElementById("copy-whatsapp-btn");
+      whatsappBtn.addEventListener("click", async () => {
+        try {
+          await navigator.clipboard.writeText(c.whatsappUsername);
+          whatsappBtn.textContent = "Copied!";
+          whatsappBtn.classList.add("copied");
+          setTimeout(() => {
+            whatsappBtn.textContent = "Copy";
+            whatsappBtn.classList.remove("copied");
+          }, 1800);
+        } catch (e) {
+          whatsappBtn.textContent = "Press Ctrl+C";
+        }
+      });
+    } else {
+      whatsappRow.style.display = "none";
+    }
 
     // Copy-email row
     const emailRow = document.getElementById("contact-email-row");
