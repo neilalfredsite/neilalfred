@@ -21,7 +21,7 @@ profile: {
   name: "Neil Alfred",
   title: "Shorts & Reels Editor",
   tagline: "I create engaging and affordable YouTube Shorts for the health, entertainment, and gaming trivia niches.",
-  bio: "I edit YouTube Shorts and Instagram/Facebook Reels, specializing in short-form, vertical content. I have experience editing videos in the health, entertainment, and gaming trivia niches, turning raw footage or long-form recordings into fast-paced, hook-first videos optimized for viewer retention. I primarily use CapCut and can also provide Text-to-Speech (TTS) narration when a voice actor isn't available, along with captions, sound effects, transitions, and other enhancements to deliver polished, engaging short-form content. I also design scroll-stopping YouTube thumbnails in both 16:9 (landscape uploads) and 9:16 (Shorts/Reels) formats to help boost click-through rate.",
+  bio: "I edit YouTube Shorts and Instagram/Facebook Reels, specializing in short-form, vertical content. I have experience editing videos in the health, entertainment, and gaming trivia niches, turning raw footage or long-form recordings into fast-paced, hook-first videos optimized for viewer retention. I primarily use CapCut and can also provide Text-to-Speech (TTS) narration when a voice actor isn't available, along with captions, sound effects, transitions, and other enhancements to deliver polished, engaging short-form content. I also design scroll-stopping YouTube thumbnails in both 16:9 (Long-form) and 9:16 (Shorts/Reels) formats to help boost click-through rate.",
 
   photo: "assets/profile/profile.svg",
   darkPhoto: "assets/profile/profile2.svg",
@@ -93,7 +93,7 @@ services: [
   },
   {
     title: "Thumbnail Design",
-    description: "Scroll-stopping thumbnails designed in both 16:9 (YouTube landscape) and 9:16 (Shorts/Reels) formats to maximize click-through.",
+    description: "Scroll-stopping thumbnails designed in both 16:9 (YouTube lONG) and 9:16 (Shorts/Reels) formats to maximize click-through.",
     icon: "palette",
   },
 ],
