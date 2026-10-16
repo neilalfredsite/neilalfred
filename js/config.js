@@ -257,6 +257,13 @@ projects: [
   // ---------------------------------------------------------------------
   thumbnails: [
 {
+  image: "assets/thumbnails/28.png",
+  title: "Midnight Postman",
+  category: "Gaming",
+  orientation: "16:9",
+},
+
+{
   image: "assets/thumbnails/27.png",
   title: "PS2 The Incredibles",
   category: "Gaming",
