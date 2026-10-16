@@ -103,18 +103,18 @@ services: [
   // ---------------------------------------------------------------------
   testimonials: [
   {
-    quote: "Neil consistently delivered engaging gaming facts and trivia Shorts with strong hooks, smooth pacing, and clean edits. Every video was optimized to keep viewers watching until the very end.",
+    quote: "Neil consistently made fun and engaging gaming facts and trivia Shorts with catchy hooks, smooth pacing, and clean edits. Each video was made to keep viewers hooked and watching until the very end.",
     name: "AmaraShortTV",
     role: "Gaming Facts & Trivia Creator",
   },
   {
-    quote: "Neil created clean, engaging edits that matched our fitness and healthy lifestyle content perfectly. Communication was excellent, revisions were handled quickly, and the final videos always met our expectations.",
+    quote: "He made clean, engaging edits that fit our fitness and healthy lifestyle content really well. He was easy to work with, communicated clearly, and handled revisions quickly. The final videos always turned out great and met our expectations.",
     name: "Med1c1ne",
     role: "Fitness & Healthy Lifestyle Creator",
   },
 
    {
-    quote: "Neil consistently designed eye-catching Gacha Life thumbnails with bold visuals, clear composition, and expressive characters. Every thumbnail was crafted to grab attention and improve click-through rates.",
+    quote: "The Gacha Life thumbnails turned out really good! The characters looked great, the colors stood out, and each thumbnail caught your attention. He understood what we wanted and did a great job bringing our ideas to life. We were really happy with how everything turned out.",
     name: "MrBipBapp",
     role: "Gacha Life Entertainment Creator",
   },
