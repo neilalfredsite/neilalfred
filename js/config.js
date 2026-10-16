@@ -71,7 +71,7 @@ profile: {
   // SERVICES
   // ---------------------------------------------------------------------
 services: [
-  {
+    {
     title: "Long-Form Video Editing",
     description: "Entertaining YouTube vlogs and gaming videos with clean cuts, zooms, funny memes, and creative effects.",
     icon: "monitor-play",
@@ -79,29 +79,30 @@ services: [
   {
     title: "YouTube Shorts Editing",
     description: "Long-form footage cut down into fast, hook-first Shorts built for retention and the algorithm.",
-    icon: "scissors",
+    icon: "clapperboard",
   },
   {
     title: "Social Media Management",
     description: "Strategic brand management with post scheduling, high-engagement captions, and optimized hashtags.",
-    icon: "trending-up",
+    icon: "chart-line", // Better than "music"
   },
   {
     title: "Hook & Caption Writing",
     description: "The first 2 seconds decide the scroll. I write and time hooks, text overlays, and captions to hold viewers.",
-    icon: "pen-line",
+    icon: "pen-nib", // Better represents writing
   },
   {
     title: "Text-to-Speech (TTS)",
     description: "Need a voiceover? I can generate natural-sounding AI voices when a voice actor isn't available.",
-    icon: "volume-2",
+    icon: "microphone-lines", // More modern than "mic"
   },
   {
     title: "Thumbnail Design",
-    description: "Scroll-stopping thumbnails designed in both 16:9 (YouTube long-form) and 9:16 (Shorts/Reels) formats to maximize click-through.",
-    icon: "image",
+    description: "Scroll-stopping thumbnails designed in both 16:9 (YouTube lONG) and 9:16 (Shorts/Reels) formats to maximize click-through.",
+    icon: "palette",
   },
 ],
+
   // ---------------------------------------------------------------------
   // TESTIMONIALS
   // ---------------------------------------------------------------------
