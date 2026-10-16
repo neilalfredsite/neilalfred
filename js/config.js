@@ -127,39 +127,39 @@ services: [
   //   - upload: put the .mp4 file path (e.g. "assets/videos/my-clip.mp4")
   // ---------------------------------------------------------------------
 projects: [
- {
-    id: "itskukuyt-short-14",
-    title: "Roblox - Animal Hospital",
-    thumbnail: "https://i.ytimg.com/vi/4mzLeFYrLYU/maxresdefault.jpg",
-    videoType: "local",
-    videoSrc: "/assets/Video/1.mp4",
-    category: "Gaming",
-  },
+{
+  id: "itskukuyt-short-14",
+  title: "Roblox - Animal Hospital",
+  thumbnail: "https://i.ytimg.com/vi/4mzLeFYrLYU/maxresdefault.jpg",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1CzWLrspVut_nnDqJ-vCWJlszaoOkTorF/view?usp=sharing",
+  category: "Gaming",
+},
 
 {
   id: "itskukuyt-short-23",
   title: "Roblox - Verity",
   thumbnail: "https://i.ytimg.com/vi/LzX2eyuceyg/maxresdefault.jpg",
-    videoType: "local",
-    videoSrc: "/assets/Video/2.mp4",
-    category: "Gaming",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1sEPpBA77NoSP_RdPM4J3Xw5wBENdLbVh/view?usp=sharing",
+  category: "Gaming",
 },
 {
   id: "itskukuyt-short-10",
   title: "Roblox - The House of Creation",
   thumbnail: "https://i.ytimg.com/vi/9S4oqQVanLc/maxresdefault.jpg",
-    videoType: "local",
-    videoSrc: "/assets/Video/3.mp4",
-    category: "Gaming",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1UR-Ir9fwxXcEInPCekWiYiWnPQ-OaahY/view?usp=sharing ",
+  category: "Gaming",
 },
 
 {
   id: "itskukuyt-short-14",
   title: "Outlast",
   thumbnail: "https://i.ytimg.com/vi/BpaVK4JKwMs/maxresdefault.jpg",
-    videoType: "local",
-    videoSrc: "/assets/Video/4.mp4",
-    category: "Gaming",
+  videoType: "gdrive",
+  videoSrc: "https://drive.google.com/file/d/1z3ERPTrXrg0KNPubNSWuiPqNpiB3cgjr/view?usp=sharing",
+  category: "Gaming",
 },
 
 
