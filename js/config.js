@@ -19,9 +19,9 @@ window.SITE_CONFIG = {
   // ---------------------------------------------------------------------
 profile: {
   name: "Neil Alfred",
-  title: "Shorts & Reels Editor",
-  tagline: "I create engaging and affordable YouTube Shorts for the health, entertainment, and gaming trivia niches.",
-  bio: "I edit YouTube Shorts and Instagram/Facebook Reels, specializing in short-form, vertical content. I have experience editing videos in the health, entertainment, and gaming trivia niches, turning raw footage or long-form recordings into fast-paced, hook-first videos optimized for viewer retention. I primarily use CapCut and can also provide Text-to-Speech (TTS) narration when a voice actor isn't available, along with captions, sound effects, transitions, and other enhancements to deliver polished, engaging short-form content. I also design scroll-stopping YouTube thumbnails in both 16:9 (Long-form) and 9:16 (Shorts/Reels) formats to help boost click-through rate.",
+  title: "Video Editor & Thumbnail Designer",
+  tagline: "Creating engaging videos and eye-catching thumbnails for content creators.",
+  bio: "I edit short-form and long-form videos, including Shorts, Reels, vlogs, and gaming content. My editing style includes clean cuts, zooms, memes, sound effects, and creative edits that keep viewers entertained. I also design eye-catching thumbnails to help your content stand out.",
 
   photo: "assets/profile/profile.svg",
   darkPhoto: "assets/profile/profile2.svg",
