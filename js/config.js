@@ -108,7 +108,7 @@ services: [
     role: "Gaming Facts & Trivia Creator",
   },
   {
-    quote: "He made clean, engaging edits that fit our fitness and healthy lifestyle content really well. He was easy to work with, communicated clearly, and handled revisions quickly. The final videos always turned out great and met our expectations.",
+    quote: "Really enjoyed working together! The edits were clean, engaging, and a great fit for our fitness and healthy lifestyle content. Communication was always smooth, revisions were handled quickly, and the final videos consistently turned out great. Definitely a great experience overall!",
     name: "Med1c1ne",
     role: "Fitness & Healthy Lifestyle Creator",
   },
