@@ -219,7 +219,7 @@ projects: [
   title: "Stardew Valley Guide",
   thumbnail: "https://drive.google.com/thumbnail?id=1r7YpGUltECdwOd82Iu3f1k7_eIy3QgFO&sz=w1200",
   videoType: "gdrive",
-  videoSrc: "https://drive.google.com/drive/folders/1YN1RHNv2RLU1tM1NiloGLRvuTRGq_ahD",
+  videoSrc: "https://drive.google.com/file/d/1iAhx-7oBj-y4DfhhqmzrNUhouf5d7XWg/view?usp=sharing",
   category: "Gaming",
 },
 
@@ -261,6 +261,14 @@ projects: [
   // each image's real aspect ratio (no cropping/distortion).
   // ---------------------------------------------------------------------
   thumbnails: [
+
+ {
+  image: "assets/thumbnails/29.png",
+  title: "Meccha Chameleon",
+  category: "Gaming",
+  orientation: "16:9",
+},
+
 {
   image: "assets/thumbnails/28.png",
   title: "Midnight Postman",
