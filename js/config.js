@@ -262,6 +262,16 @@ projects: [
   // ---------------------------------------------------------------------
   thumbnails: [
 
+
+
+ {
+  image: "assets/thumbnails/30.png",
+  title: "CH13: Rest Stop",
+  category: "Gaming",
+  orientation: "16:9",
+},
+
+
  {
   image: "assets/thumbnails/29.png",
   title: "Meccha Chameleon",
