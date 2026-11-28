@@ -12,6 +12,8 @@
   --accent-ink: #FFFFFF;
   --accent-soft: #E7ECFF;
   --gold: #E8B94B;
+  --online: #22A55A;            /* status dot only */
+  --online-glow: rgba(34,165,90,.35);
   --danger: #D9536B;
   --radius-sm: 8px;
   --radius-md: 14px;
@@ -37,6 +39,8 @@
   --accent-ink: #0E1220;
   --accent-soft: #232B4A;
   --gold: #E8B94B;
+  --online: #4ADE80;
+  --online-glow: rgba(74,222,128,.5);
   --shadow-md: 0 10px 30px -12px rgba(0,0,0,0.5);
 }
 
@@ -152,11 +156,33 @@ h1,h2,h3{ font-family: var(--font-display); font-weight: 600; line-height: 1.1; 
   pointer-events: none;
 }
 .hero-inner{ position: relative; z-index: 1; }
+/* Availability status pill — uses the site's own surface, border and ink
+   so it sits in the theme; the green dot is the only status colour */
 .hero-eyebrow{
-  font-family: var(--font-mono); font-size: 13px; letter-spacing: .08em; color: var(--accent);
-  display: inline-flex; align-items: center; gap: 8px; margin: 0 0 18px; text-transform: uppercase;
+  font-family: var(--font-mono); font-size: 12.5px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--ink);
+  display: inline-flex; align-items: center; gap: 10px; margin: 0 0 22px;
+  padding: 7px 14px 7px 12px; border-radius: 999px;
+  background: var(--surface); border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
 }
-.hero-eyebrow::before{ content: ""; width: 7px; height: 7px; border-radius: 999px; background: var(--gold); box-shadow: 0 0 0 4px color-mix(in srgb, var(--gold) 25%, transparent); }
+
+/* Live status dot with pulsing ring */
+.hero-eyebrow::before,
+#about-availability::before{
+  content: "";
+  width: 8px; height: 8px; flex-shrink: 0;
+  border-radius: 999px;
+  background: var(--online);
+  box-shadow: 0 0 0 0 var(--online-glow), 0 0 6px 1px var(--online-glow);
+  animation: onlinePulse 2s ease-out infinite;
+}
+@keyframes onlinePulse{
+  0%   { box-shadow: 0 0 0 0 var(--online-glow), 0 0 6px 1px var(--online-glow); }
+  70%  { box-shadow: 0 0 0 8px transparent,     0 0 8px 2px var(--online-glow); }
+  100% { box-shadow: 0 0 0 0 transparent,       0 0 6px 1px var(--online-glow); }
+}
+
 .hero-name{ font-size: clamp(44px, 7vw, 84px); letter-spacing: -0.01em; }
 .hero-title{ font-size: clamp(18px, 2vw, 22px); color: var(--muted); margin: 10px 0 18px; font-weight: 500; }
 .hero-tagline{ font-size: 17px; max-width: 460px; color: var(--ink); opacity: .85; margin: 0 0 34px; }
@@ -252,7 +278,13 @@ h1,h2,h3{ font-family: var(--font-display); font-weight: 600; line-height: 1.1; 
 .about-copy p{ color: var(--ink); opacity: .85; font-size: 17px; }
 .about-bio{ font-size: 18px !important; }
 .about-meta{ display: flex; gap: 40px; margin-top: 26px; flex-wrap: wrap; }
-.about-meta div{ display: flex; flex-direction: column; gap: 4px; }
+.about-meta div{ display: flex; flex-direction: column; align-items: flex-start; gap: 4px; }
+
+/* About → Status: matches the hero availability pill */
+#about-availability{
+  display: inline-flex; align-items: center; gap: 8px;
+  color: var(--ink); font-weight: 500;
+}
 .meta-label{ font-family: var(--font-mono); font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
 
 /* ==========================================================================
@@ -517,8 +549,6 @@ h1,h2,h3{ font-family: var(--font-display); font-weight: 600; line-height: 1.1; 
 /* ==========================================================================
    VIDEO MODAL
    ========================================================================== */
-/* ===== Video Modal ===== */
-
 .video-modal{
   position:fixed;
   inset:0;
@@ -620,6 +650,7 @@ h1,h2,h3{ font-family: var(--font-display); font-weight: 600; line-height: 1.1; 
   .video-modal-panel{width:100%;}
   .video-modal-info{padding:16px;}
 }
+
 /* ==========================================================================
    RESPONSIVE
    ========================================================================== */
@@ -646,6 +677,7 @@ h1,h2,h3{ font-family: var(--font-display); font-weight: 600; line-height: 1.1; 
   .about{ padding: 64px 0 20px; text-align: center; }
   .about-grid{ margin: 0 auto; }
   .about-meta{ justify-content: center; }
+  .about-meta div{ align-items: center; }
 }
 
 /* ---------- Mobile nav takes over, tablets in portrait too ---------- */
@@ -712,6 +744,7 @@ h1,h2,h3{ font-family: var(--font-display); font-weight: 600; line-height: 1.1; 
   .service-icon{ width: 38px; height: 38px; }
   .chip{ font-size: 11.5px; padding: 6px 12px; }
 }
+
 /* ==========================================================================
    THUMBNAIL LIGHTBOX
    ========================================================================== */
